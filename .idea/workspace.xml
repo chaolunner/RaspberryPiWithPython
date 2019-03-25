@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f53c6894-6dd4-44cd-a10f-d96a8bad42f1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$blink_led.coverage" NAME="blink_led Coverage Results" MODIFIED="1545550126760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyeasy/modules" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$motion_sensor.coverage" NAME="motion_sensor Coverage Results" MODIFIED="1545478255713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyeasy/modules" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$baidu_ai_utility.coverage" NAME="baidu_ai_utility Coverage Results" MODIFIED="1550840823935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/plugins" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$flash_led.coverage" NAME="flash_led Coverage Results" MODIFIED="1545476816400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyeasy/modules" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$DetectingMotion.coverage" NAME="DetectingMotion Coverage Results" MODIFIED="1545476469738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Examples/Scripts" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$natural_language_understanding_system.coverage" NAME="natural_language_understanding_system Coverage Results" MODIFIED="1550838533482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/systems" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$pwm_led.coverage" NAME="pwm_led Coverage Results" MODIFIED="1545549321103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyeasy/modules" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$buzzer.coverage" NAME="buzzer Coverage Results" MODIFIED="1545477696398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyeasy/modules" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$pwm_output_device.coverage" NAME="pwm_output_device Coverage Results" MODIFIED="1545574786032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyeasy/modules" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$OpeningBuzzer.coverage" NAME="OpeningBuzzer Coverage Results" MODIFIED="1543233426295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Examples/Scripts" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$ButtonInput.coverage" NAME="ButtonInput Coverage Results" MODIFIED="1543232018293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Examples/Scripts" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$FlashingLED.coverage" NAME="FlashingLED Coverage Results" MODIFIED="1543227952527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Examples/Scripts" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$self_balancing_robot__1_.coverage" NAME="self_balancing_robot (1) Coverage Results" MODIFIED="1547467973837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assets/scenes" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$button.coverage" NAME="button Coverage Results" MODIFIED="1545476829604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyeasy/modules" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$baidu_utility__1_.coverage" NAME="baidu_utility (1) Coverage Results" MODIFIED="1553493241105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../PythonFramework/baidu" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$serial_port_communication.coverage" NAME="serial_port_communication Coverage Results" MODIFIED="1546766506394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyeasy/modules" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$LightingLED.coverage" NAME="LightingLED Coverage Results" MODIFIED="1543227970598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Examples/Scripts" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$pulse_led.coverage" NAME="pulse_led Coverage Results" MODIFIED="1545553214366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyeasy/modules" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$robot_scene__1_.coverage" NAME="robot_scene (1) Coverage Results" MODIFIED="1553500529092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ai_robot/scenes" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$motor.coverage" NAME="motor Coverage Results" MODIFIED="1545575771066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyeasy/modules" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$robot.coverage" NAME="robot Coverage Results" MODIFIED="1545575852544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyeasy/modules" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$switch_led.coverage" NAME="switch_led Coverage Results" MODIFIED="1545477335546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyeasy/modules" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$self_balancing_robot.coverage" NAME="self_balancing_robot Coverage Results" MODIFIED="1548514400572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/scenes" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$mcp3008.coverage" NAME="mcp3008 Coverage Results" MODIFIED="1545548530099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyeasy/modules" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$distance_sensor.coverage" NAME="distance_sensor Coverage Results" MODIFIED="1545547032128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyeasy/modules" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$robot_scene.coverage" NAME="robot_scene Coverage Results" MODIFIED="1550838508083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/scenes" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$output_devices.coverage" NAME="output_devices Coverage Results" MODIFIED="1545559975131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyeasy/modules" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$baidu_utility.coverage" NAME="baidu_utility Coverage Results" MODIFIED="1553489853890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins/baidu" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$SwitchingLED.coverage" NAME="SwitchingLED Coverage Results" MODIFIED="1543232809262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Examples/Scripts" />
+    <SUITE FILE_PATH="coverage/RaspberryPiWithPython$self_balancing_robot__2_.coverage" NAME="self_balancing_robot (2) Coverage Results" MODIFIED="1547542715600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/scenes" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>HoldMixin</find>
+      <find>DigitalInputDevice</find>
+      <find>EventsMixin</find>
+      <find>median</find>
+      <find>_</find>
+      <find>try</find>
+      <find>class</find>
+      <find>is_applicator</find>
+      <find>super</find>
+      <find>error</find>
+      <find>binder</find>
+      <find>c</find>
+      <find>__builtin__</find>
+      <find>isOpen</find>
+      <find>left_motor</find>
+      <find>RequestQuery</find>
+      <find>intent_confidence</find>
+      <find>JsonUtility</find>
+      <find>print</find>
+      <find>BaiduUtility.access_token</find>
+      <find>BaiduUtility.aip_speech</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/plugins/baidu/classes/refine_detail.py" />
+        <option value="$PROJECT_DIR$/plugins/baidu/classes/response.py" />
+        <option value="$PROJECT_DIR$/plugins/baidu/classes/response_data.py" />
+        <option value="$PROJECT_DIR$/plugins/baidu/classes/response_result.py" />
+        <option value="$PROJECT_DIR$/plugins/baidu/classes/schema.py" />
+        <option value="$PROJECT_DIR$/plugins/baidu/classes/sentiment_analysis.py" />
+        <option value="$PROJECT_DIR$/plugins/baidu/classes/slots.py" />
+        <option value="$PROJECT_DIR$/plugins/ecs/__init__.py" />
+        <option value="$PROJECT_DIR$/plugins/ecs/ebs.py" />
+        <option value="$PROJECT_DIR$/plugins/ecs/entity.py" />
+        <option value="$PROJECT_DIR$/plugins/ecs/system.py" />
+        <option value="$PROJECT_DIR$/plugins/serial_handler.py" />
+        <option value="$PROJECT_DIR$/plugins/baidu/baidu_utility.py" />
+        <option value="$PROJECT_DIR$/plugins/baidu/__init__.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/baidu/__init__.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/baidu/classes/action.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/baidu/classes/access_token.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/baidu/classes/candidate.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/baidu/classes/dialog_state.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/baidu/classes/lexical_analysis.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/baidu/classes/option.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/baidu/classes/query_data.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/baidu/classes/query_request.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/baidu/classes/query_result.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/baidu/classes/refine_detail.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/baidu/classes/response.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/baidu/classes/response_data.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/baidu/classes/response_result.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/baidu/classes/schema.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/baidu/classes/sentiment_analysis.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/baidu/classes/slots.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/baidu/baidu_utility.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/ecs/__init__.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/ecs/ebs.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/ecs/entity.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/serial_handler.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/__init__.py" />
+        <option value="$PROJECT_DIR$/ai_robot/classes/joystick_message.py" />
+        <option value="$PROJECT_DIR$/ai_robot/classes/packed_message.py" />
+        <option value="$PROJECT_DIR$/ai_robot/classes/raw_message.py" />
+        <option value="$PROJECT_DIR$/ai_robot/entities/robot.py" />
+        <option value="$PROJECT_DIR$/ai_robot/scenes/robot_scene.py" />
+        <option value="$PROJECT_DIR$/ai_robot/extensions/packed_message_extensions.py" />
+        <option value="$PROJECT_DIR$/ai_robot/systems/serial_system.py" />
+        <option value="$PROJECT_DIR$/ai_robot/components/transform.py" />
+        <option value="$PROJECT_DIR$/ai_robot/classes/vector2.py" />
+        <option value="$PROJECT_DIR$/ai_robot/classes/vector3.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/ecs/system.py" />
+        <option value="$PROJECT_DIR$/../../PythonFramework/events.py" />
+        <option value="$PROJECT_DIR$/ai_robot/systems/natural_language_understanding_system.py" />
+        <option value="$PROJECT_DIR$/ai_robot/systems/movement_system.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="RaspberryPiWithPython" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="RaspberryPiWithPython" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="sources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RaspberryPiWithPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RaspberryPiWithPython" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="RaspberryPiWithPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PythonFramework" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chaolun\Documents\PythonFramework\sources" />
+      <recent name="C:\Users\chaolun\Documents\RaspberryPi\RaspberryPiWithPython\plugins\sources" />
+      <recent name="C:\Users\chaolun\Documents\RaspberryPi\RaspberryPiWithPython\sources\plugins-stubs" />
+      <recent name="C:\Users\chaolun\Documents\RaspberryPi\RaspberryPiWithPython\resources\audios" />
+      <recent name="C:\Users\chaolun\Documents\RaspberryPi\RaspberryPiWithPython\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.robot_scene (1)">
+    <configuration name="baidu_ai_utility" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RaspberryPiWithPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/plugins" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/plugins/baidu_ai_utility.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="baidu_utility (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RaspberryPiWithPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../PythonFramework/baidu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../PythonFramework/baidu/baidu_utility.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="baidu_utility" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RaspberryPiWithPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plugins/baidu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plugins/baidu/baidu_utility.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="robot_scene (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RaspberryPiWithPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ai_robot/scenes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ai_robot/scenes/robot_scene.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="robot_scene" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RaspberryPiWithPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/scenes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/scenes/robot_scene.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.robot_scene (1)" />
+        <item itemvalue="Python.baidu_utility (1)" />
+        <item itemvalue="Python.baidu_utility" />
+        <item itemvalue="Python.robot_scene" />
+        <item itemvalue="Python.baidu_ai_utility" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f53c6894-6dd4-44cd-a10f-d96a8bad42f1" name="Default Changelist" comment="" />
+      <created>1543217182834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543217182834</updated>
+      <workItem from="1543217185247" duration="9518000" />
+      <workItem from="1543280833529" duration="529000" />
+      <workItem from="1543281836527" duration="3459000" />
+      <workItem from="1543417312036" duration="6694000" />
+      <workItem from="1544860612773" duration="4998000" />
+      <workItem from="1544880187535" duration="1556000" />
+      <workItem from="1544934403287" duration="5801000" />
+      <workItem from="1545148519839" duration="5639000" />
+      <workItem from="1545401944216" duration="67000" />
+      <workItem from="1545405063276" duration="112000" />
+      <workItem from="1545405730825" duration="55000" />
+      <workItem from="1545405809860" duration="16000" />
+      <workItem from="1545452257640" duration="11338000" />
+      <workItem from="1545537319609" duration="13261000" />
+      <workItem from="1546153237053" duration="767000" />
+      <workItem from="1546160269487" duration="2449000" />
+      <workItem from="1546176369661" duration="4955000" />
+      <workItem from="1546195448992" duration="11995000" />
+      <workItem from="1546522855034" duration="4418000" />
+      <workItem from="1546751347927" duration="6646000" />
+      <workItem from="1546765348863" duration="1092000" />
+      <workItem from="1547266415066" duration="24982000" />
+      <workItem from="1547307690689" duration="12851000" />
+      <workItem from="1547364897039" duration="9722000" />
+      <workItem from="1547440998752" duration="5339000" />
+      <workItem from="1547450742452" duration="8951000" />
+      <workItem from="1547461400117" duration="7220000" />
+      <workItem from="1547524989235" duration="22212000" />
+      <workItem from="1547552931996" duration="150000" />
+      <workItem from="1547553128848" duration="2422000" />
+      <workItem from="1547611687562" duration="2932000" />
+      <workItem from="1547700246746" duration="4721000" />
+      <workItem from="1547710041745" duration="9643000" />
+      <workItem from="1547782770972" duration="1411000" />
+      <workItem from="1548220001919" duration="223000" />
+      <workItem from="1548479097160" duration="2523000" />
+      <workItem from="1548497509225" duration="761000" />
+      <workItem from="1548498299614" duration="245000" />
+      <workItem from="1548498577271" duration="12337000" />
+      <workItem from="1548566892380" duration="1551000" />
+      <workItem from="1550824251932" duration="4460000" />
+      <workItem from="1550837026191" duration="196000" />
+      <workItem from="1550837464652" duration="3377000" />
+      <workItem from="1551065614790" duration="1933000" />
+      <workItem from="1551067960990" duration="4037000" />
+      <workItem from="1551075556634" duration="386000" />
+      <workItem from="1551080551892" duration="14021000" />
+      <workItem from="1551152555877" duration="5116000" />
+      <workItem from="1551158460824" duration="9440000" />
+      <workItem from="1551244164575" duration="13531000" />
+      <workItem from="1551325658676" duration="9577000" />
+      <workItem from="1553488423270" duration="2496000" />
+      <workItem from="1553491556664" duration="2986000" />
+      <workItem from="1553499870448" duration="954000" />
+      <workItem from="1553503108029" duration="1562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="299633000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49915966" visible="true" weight="0.10930048" />
+      <window_info id="Structure" order="1" sideWeight="0.50084037" side_tool="true" weight="0.17596567" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49920508" weight="0.32936507" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5671701" weight="0.18095239" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32857144" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32961586" />
+      <window_info anchor="bottom" id="File Transfer" order="9" sideWeight="0.49626866" visible="true" weight="0.18485524" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32936507" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.41255963" side_tool="true" weight="0.18095239" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32936507" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" sideWeight="0.5874404" weight="0.32936507" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49915966" weight="0.13950716" />
+      <window_info id="Structure" order="1" sideWeight="0.50084037" side_tool="true" weight="0.17596567" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49920508" weight="0.32936507" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5675676" visible="true" weight="0.2626984" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32961586" />
+      <window_info anchor="bottom" id="File Transfer" order="9" sideWeight="0.49626866" visible="true" weight="0.18485524" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.43243244" side_tool="true" weight="0.2626984" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32936507" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/baidu/baidu_utility.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/analogue_inputs.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/blink_led.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sources/gpiozero-stubs/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1031">
+          <caret line="94" column="6" selection-start-line="94" selection-start-column="6" selection-end-line="94" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sources/gpiozero-stubs/input_devices.pyi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai_robot/classes/joystick_message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="40" lean-forward="true" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai_robot/classes/packed_message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai_robot/classes/raw_message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai_robot/classes/vector2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai_robot/classes/vector3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai_robot/components/transform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai_robot/entities/robot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai_robot/events/send_message_event.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai_robot/extensions/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai_robot/extensions/packed_message_extensions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai_robot/scenes/robot_scene.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai_robot/systems/movement_system.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai_robot/systems/natural_language_understanding_system.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai_robot/systems/serial_system.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai_robot/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/sources/inject.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/baidu/classes/access_token.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/baidu/classes/action.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/baidu/classes/candidate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/baidu/classes/dialog_state.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/baidu/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/baidu/classes/slots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/baidu/classes/sentiment_analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="5" selection-start-line="3" selection-start-column="13" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/baidu/classes/response_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/baidu/classes/refine_detail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/baidu/classes/query_result.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/baidu/classes/query_request.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/baidu/classes/query_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/baidu/classes/option.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/baidu/classes/lexical_analysis.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/ecs/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/ecs/component.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/ecs/ebs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/ecs/entity.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/ecs/system.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/inject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="73" selection-end-column="27" />
+          <folding>
+            <element signature="e#2424#2438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/forbiddenfruit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/events.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="76" lean-forward="true" selection-start-line="28" selection-start-column="76" selection-end-line="28" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/json_utility.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/message_broker.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/os_utility.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/reactive_property.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/resources.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="e#35#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/scene.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../PythonFramework/serial_handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
