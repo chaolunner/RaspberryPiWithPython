@@ -1,28 +1,28 @@
 import atexit
 
 from ecs import System
-from serial_handler import SerialHandler
+from socket_server import SocketServer
 from ai_robot import JoystickMessage, SendMessageEvent
 
 
-class SerialSystem(System):
+class ServerSystem(System):
     def __init__(self):
-        super(SerialSystem, self).__init__()
+        super(ServerSystem, self).__init__()
 
-        self.serial_handler = SerialHandler()
-        self.serial_handler.on_received += self.on_received
-        self.serial_handler.open()
+        self.server = SocketServer()
+        self.server.on_received += self.on_received
+        self.server.start_server()
 
         atexit.register(self.exit)
 
     def process(self, world, components):
         self.event_system.receive(SendMessageEvent).subscribe(
-            on_next=lambda evt: self.serial_handler.send(evt.message)
+            on_next=lambda evt: self.server.send_message(evt.message)
         )
 
     def exit(self):
-        self.serial_handler.on_received -= self.on_received
-        self.serial_handler.close()
+        self.server.on_received -= self.on_received
+        self.server.close()
 
     def on_received(self, sender, message: str = None):
         try:

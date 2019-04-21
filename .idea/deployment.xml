@@ -5,7 +5,7 @@
       <paths name="pi@192.168.31.180:22">
         <serverdata>
           <mappings>
-            <mapping deploy="/home/pi/Desktop/py/RaspberryPiWithPython" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/home/pi/Desktop/py/RaspberryPi" local="$PROJECT_DIR$/.." web="/" />
           </mappings>
         </serverdata>
       </paths>

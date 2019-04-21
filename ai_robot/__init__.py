@@ -12,6 +12,7 @@ from ai_robot.components.transform import Transform
 from ai_robot.entities.robot import Robot
 # systems
 from ai_robot.systems.serial_system import SerialSystem
+from ai_robot.systems.server_system import ServerSystem
 from ai_robot.systems.movement_system import MovementSystem
 from ai_robot.systems.natural_language_understanding_system import NaturalLanguageUnderstandingSystem
 # extensions
